@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h6 class="lead">
+<style>
+  
+  
+  
+</style>
+
+<h6 font-family: Nunito,sans-serif; color: #6C575D>
   I'm a software developer/ consultant from India.
 
   I am very enthusiastic in learning new technologies.
