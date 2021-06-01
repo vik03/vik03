@@ -23,5 +23,5 @@ I like to build things with Deep Learning/Machine Learning, distributed systems,
 
 You can find me on:
 <ul>
-  <li>Github as @vik03 (you are here)</li>
+  <li> <a href="https://github.com/vik03">Github as @vik03 (you are here)</a></li>
  </ul>
