@@ -31,5 +31,5 @@ I like to build things with Deep Learning/Machine Learning, distributed systems,
 
 * Playing Games
 * Travelling
-* Drinking Coffee... (find me most of the time)
+* Drinking Coffee... :coffee: (find me most of the time)
  
