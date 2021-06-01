@@ -25,6 +25,8 @@ I like to build things with Deep Learning/Machine Learning, distributed systems,
 
 ###### You can find me on:
 
+* [GitHub as @vik03](https://github.com/vik03)
+
 * Github as @vik03 "https://github.com/vik03" (you are here)
  
 ###### My Hobbies includes:
