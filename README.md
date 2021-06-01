@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 I'm a software developer/ consultant from India.
 
+I am very enthusiastic in learning new technologies.
+
 I have been building APIs, Portals and tools for Machine Learning and data systems with different teams and organizations.
 
-I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks.
+I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Postgres, Docker, Python, JavaScript, modern backend APIs, and modern frontend frameworks like Vue, React
 
 You can find me on:
 <ul>
