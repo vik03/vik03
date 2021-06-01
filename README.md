@@ -23,11 +23,11 @@ I have been building APIs, Portals and tools for Machine Learning and data syste
 
 I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Postgres, Docker, Python, JavaScript, modern backend APIs, and modern frontend frameworks like Vue, React
 
-### You can find me on:
+##### You can find me on:
 
 * [GitHub as @vik03](https://github.com/vik03) :+1: :sparkles:
  
-### My Hobbies includes:
+##### My Hobbies includes:
 
 * Playing Games :video_game:
 * Travelling :airplane:
