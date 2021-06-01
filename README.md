@@ -29,7 +29,7 @@ I like to build things with Deep Learning/Machine Learning, distributed systems,
  
 ###### My Hobbies includes:
 
-* Playing Games :games:
+* Playing Games :video_game:
 * Travelling :airplane:
 * Drinking Coffee... :coffee: (find me most of the time)
  
