@@ -33,5 +33,5 @@ I like to build things with Deep Learning/Machine Learning, distributed systems,
 * Travelling :airplane:
 * Drinking Coffee... :coffee: (find me most of the time)
 
-###### One learning here - "Elit"  in Latin means "Developer"
+###### *One learning here - "Elit"  in Latin means "Developer"*
  
