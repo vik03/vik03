@@ -28,7 +28,7 @@ You can find me on:
   <li> <a href="https://github.com/vik03">Github as @vik03 (you are here)</a></li>
  </ul>
  
- My Hobbies includes:
+ <h6 class="lead">My Hobbies includes:</h6>
  
  <ul>
   <li>Playing Games</li>
