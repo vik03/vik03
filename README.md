@@ -27,3 +27,12 @@ You can find me on:
 <ul>
   <li> <a href="https://github.com/vik03">Github as @vik03 (you are here)</a></li>
  </ul>
+ 
+ My Hobbies includes:
+ 
+ <ul>
+  <li>Playing Games</li>
+  <li>Travelling</li>
+  <li>Drinking Coffee... (find me most of the time)</li>
+ </ul>
+ 
