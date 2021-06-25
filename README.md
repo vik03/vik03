@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software developer/ consultant from India.
+I'm full stack software developer/ consultant from India.
 
 I am very enthusiastic in learning new technologies.
 
