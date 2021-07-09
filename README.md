@@ -21,7 +21,7 @@ I am very enthusiastic in learning new technologies.
 
 I have been building APIs, Portals and tools for Machine Learning and data systems with different teams and organizations.
 
-I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Postgres, Docker, Python, JavaScript, modern backend APIs, and modern frontend frameworks like Vue, React
+I like to build things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Postgres, Docker, Python, JavaScript, modern backend APIs, and modern frontend frameworks focusing mainly on Vue3
 
 ##### You can find me on:
 
