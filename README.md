@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 I'm full stack software developer/ consultant from India.
 
+My primary tool is HP NNMi and worked on various monitoring tools like Nagios, Zabbix, Naemon etc.
+
+I developed many Integrations on HP Tools like HPSM and HPNNMi and write various cross-platform plugins for Nagios and Naemon
+
 I am very enthusiastic in learning new technologies.
 
 I have been building APIs, Portals and tools for Machine Learning and data systems with different teams and organizations.
